@@ -1,1 +1,1 @@
-area = l*b
+area = l*brectangle has four sides.
